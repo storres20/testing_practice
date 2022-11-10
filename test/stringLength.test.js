@@ -1,8 +1,8 @@
-const stringLength = require('../stringLength')
+const stringLength = require('../stringLength');
 
-test('string length', ()=>{
-  expect(stringLength('hola')).toBe(4)
-})
+test('string length', () => {
+  expect(stringLength('hola')).toBe(4);
+});
 
 test('throw error when string length is greater than 10', () => {
   expect(() => {
