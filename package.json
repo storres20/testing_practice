@@ -1,0 +1,23 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storres20/testing_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/storres20/testing_practice/issues"
+  },
+  "homepage": "https://github.com/storres20/testing_practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
